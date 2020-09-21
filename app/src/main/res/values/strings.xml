@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Farmers Chabot</string>
+    <string name="what_s_on_your_mind">Ask farm product price in any Town</string>
+    <string name="menu_refresh">Refresh</string>
+
+    <string-array name="items_class">
+        <item>Eldoret</item>
+        <item>Kisumu</item>
+        <item>Nakuru</item>
+        <item>Kakamega</item>
+    </string-array>
+
+    <string-array name="items_div_class_1">
+        <item>Maize</item>
+        <item>Potatos</item>
+        <item>Carrots</item>
+        <item>Tomatos</item>
+    </string-array>
+
+    <string-array name="items_div_class_2">
+        <item>Div 2-A</item>
+        <item>Div 2-B</item>
+        <item>Div 2-C</item>
+        <item>Div 2-D</item>
+    </string-array>
+
+    <string-array name="items_div_class_3">
+        <item>Div 3-A</item>
+        <item>Div 3-B</item>
+        <item>Div 3-C</item>
+        <item>Div 3-D</item>
+    </string-array>
+
+    <string-array name="items_div_class_4">
+        <item>Div 4-A</item>
+        <item>Div 4-B</item>
+        <item>Div 4-C</item>
+        <item>Div 4-D</item>
+    </string-array>
+
+</resources>
